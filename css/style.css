@@ -276,6 +276,7 @@ p {
 	text-decoration: none;
 	color: #ffffff;
 	text-align: center;
+	line-height: 0;
 }
 .boton-correo:hover {
 	color: #d3d3d3;
@@ -302,7 +303,7 @@ footer span {
 }
 @media screen and (max-width: 400px) {
 	.logo {
-		top: 64%;
+		top: 62%;
 	}
 	#yo p {
 		width: 80%;
