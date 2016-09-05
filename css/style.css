@@ -237,6 +237,7 @@ p {
 	height: 48px;
 	top: 265%;
 	bottom: 0;
+	padding: 0;
 	margin: auto;
 	font-size: 21px;
 	color: #ffffff;
