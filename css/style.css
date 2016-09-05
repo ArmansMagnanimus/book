@@ -293,6 +293,36 @@ footer p {
 footer span {
 	text-decoration: underline;
 }
+
+@media screen and (max-width: 768px) {
+	header ul {
+		width: 84%;
+	}
+	.preview div p {
+		font-size: 0.8rem;
+	}
+	.contenedor-slider {
+	    margin-top: -30%;
+	    padding-top: 30%;
+	}
+	.flechita {
+	    top: 139%;
+	}
+	.preview {
+		background-position: 0 101%;
+	    padding: 126.7% 0 0;
+	}
+	.preview div {
+	    height: 56%;
+	    top: 44%;
+	}
+	#conver:hover .preview div, #conver:focus .preview div,
+	#gatopardo:hover .preview div, #gatopardo:focus .preview div,
+	#videocine:hover .preview div, #videocine:focus .preview div  {
+		display: none;
+	}
+}
+
 @media screen and (max-width: 660px) {
 	header ul {
 		width: 84%;
