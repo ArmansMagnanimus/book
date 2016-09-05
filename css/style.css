@@ -50,7 +50,7 @@ header {
 	width: 100%;
 	height: auto;
 	background-color: #ffffff;
-	z-index: 5;
+	z-index: 6;
 }
 header ul {
 	width: 92%;
@@ -196,7 +196,7 @@ p {
 #gatopardo:target .flechita,
 #videocine:target,
 #videocine:target .flechita {
-	z-index: 3;	
+	z-index: 5;	
 }
 #conver:target .preview {
 	background-image: url(../img/conver-preview.png);	
@@ -240,7 +240,7 @@ p {
 	font-size: 28px;
 	color: #ffffff;
 	line-height: 2.3;
-	z-index: 2;
+	z-index: 4;
 }
 .fa-chevron-left {
 	left: 1%;
