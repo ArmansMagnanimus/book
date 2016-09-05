@@ -226,8 +226,8 @@ p {
 	color: #ffffff;
 	text-align: center;
 }
-#conver:hover div, #conver:focus div
-#gatopardo:hover div, #gatopardo:focus div
+#conver:hover div, #conver:focus div,
+#gatopardo:hover div, #gatopardo:focus div,
 #videocine:hover div, #videocine:focus div  {
 	display: inherit;
 }
