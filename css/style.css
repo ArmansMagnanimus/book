@@ -276,6 +276,10 @@ p {
 	color: #ffffff;
 	text-align: center;
 }
+.boton-correo i {
+	display: inline-block;
+	vertical-align: bottom;
+}
 .boton-correo:hover {
 	color: #d3d3d3;
 }
@@ -301,7 +305,7 @@ footer span {
 }
 @media screen and (max-width: 400px) {
 	.logo {
-		top: 68%;
+		top: 66%;
 	}
 	#yo p {
 		width: 80%;
