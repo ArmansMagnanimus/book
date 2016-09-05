@@ -38,7 +38,7 @@
     font-weight: normal;
     font-style: normal;
 }
-html, body {
+html, body, h1 {
 	width: 100%;
 	height: 100%;
 	padding: 0;
@@ -98,7 +98,7 @@ content {
 	left: 0;
 	width: 100%;
 	height: 17%;
-	margin: auto;
+	margin: 0 auto;
 	font-family: 'Anagram', Helvetica, sans-serif;
 	color: #ffffff;
 	font-size: 64px;
@@ -238,8 +238,7 @@ p {
 	position: absolute;
 	width: 32px;
 	height: 48px;
-	top: 265%;
-	bottom: 0;
+	top: 230%;
 	padding: 0;
 	margin: auto;
 	font-size: 21px;
@@ -317,9 +316,6 @@ footer span {
 	}
 	.preview div p {
 		padding-top: 7%;
-	}
-	.flechita {
-		top: 300%;
 	}
 	.fa-chevron-right {
 		text-align: center;
