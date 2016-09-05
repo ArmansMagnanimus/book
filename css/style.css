@@ -118,6 +118,7 @@ content {
 }
 #yo {
 	padding-top: 5%;
+	padding-bottom: 5%;
 	margin-top: 0;
 }
 h2 {
@@ -138,7 +139,7 @@ p {
 }
 #contenedor-trabajo {
 	height: auto;
-	padding: 10% 0 0;
+	padding: 0;
 	margin: 0 0 0;
 	overflow: auto;
 }
@@ -166,6 +167,13 @@ p {
 	float: left;
 	position: relative;
 	width: 50%;
+	padding-top: 10%;
+	margin-top: -10%;
+}
+.contenedor-slider .area-click {
+	width: 32px;
+	height: auto;
+	overflow: auto;
 }
 .preview {
 	position: absolute;
@@ -175,7 +183,8 @@ p {
 	height: 0;
 	background-size: 100%;
 	background-repeat: no-repeat;
-	padding: 66.7% 0 0 0;
+	background-position: 0 106%;
+	padding: 86.7% 0 0 0;
 	margin: 0;
 }
 #conver .preview,
@@ -199,17 +208,17 @@ p {
 .preview div {
 	display: none;
 	position: absolute;
-	top: 0;
+	top: 23%;
 	left: 0;
 	width: 100%;
-	height: 100%;
+	height: 77%;
 	background-color: rgba(232,57,68, 0.6) ;
 	padding: 0;
 	margin: 0;
 	
 }
 .preview div p {
-	padding-top: 20%;
+	padding-top: 25%;
 	color: #ffffff;
 	text-align: center;
 }
@@ -220,8 +229,9 @@ p {
 }
 .flechita {
 	position: absolute;
-	height: 2%;
-	top: 9em;
+	width: 32px;
+	height: 32px;
+	top: 17.5em;
 	bottom: 0;
 	margin: auto;
 	font-size: 21px;
