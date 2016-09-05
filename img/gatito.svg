@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 1080"
+	 style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.Drop_x0020_Shadow{fill:none;}
+	.Round_x0020_Corners_x0020_2_x0020_pt{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
+	.Live_x0020_Reflect_x0020_X{fill:none;}
+	.Bevel_x0020_Soft{fill:url(#SVGID_1_);}
+	.Dusk{fill:#FFFFFF;}
+	.Foliage_GS{fill:#FFDD00;}
+	.Pompadour_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#44ADE2;}
+	.st0{fill:#9FC6FF;}
+	.st1{fill:#D2E5FC;}
+	.st2{fill:#45457C;}
+	.st3{fill:#FCE0C3;}
+	.st4{fill:#7AAFFC;}
+	.st5{opacity:0.19;fill:#5594FF;}
+	.st6{opacity:8.000000e-02;fill:#FF6600;}
+	.st7{fill:#FFCE00;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:#FFE783;}
+	.st10{opacity:0.39;}
+	.st11{fill:#5594FF;}
+	.st12{fill:#262262;}
+	.st13{opacity:0.15;fill:#5594FF;}
+	.st14{fill:none;stroke:#AF8E04;stroke-miterlimit:10;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="2324.1" width="4211" x="-1260.1" y="-1848.1"></sliceSourceBounds>
+		<optimizationSettings>
+			<targetSettings  fileFormat="PNG24Format" targetSettingsID="0">
+				<PNG24Format  filtered="false" interlaced="false" matteColor="#FFFFFF" noMatteColor="false" transparency="true">
+					</PNG24Format>
+			</targetSettings>
+		</optimizationSettings>
+	</sfw>
+</metadata>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0.7071" y2="0.7071">
+	<stop  offset="0" style="stop-color:#DEDFE3"/>
+	<stop  offset="0.1783" style="stop-color:#DADBDF"/>
+	<stop  offset="0.3611" style="stop-color:#CECFD3"/>
+	<stop  offset="0.546" style="stop-color:#B9BCBF"/>
+	<stop  offset="0.7324" style="stop-color:#9CA0A2"/>
+	<stop  offset="0.9181" style="stop-color:#787D7E"/>
+	<stop  offset="1" style="stop-color:#656B6C"/>
+</linearGradient>
+<polygon class="st0" points="352,716.4 268.3,479.1 312.5,479.1 241.1,276.9 271.2,276.9 173.5,0 62.2,276.9 98.6,276.9 17.2,479.1 
+	61.1,479.1 -34.3,716.4 132,716.4 132,870.1 200.6,870.1 200.6,716.4 "/>
+<polygon class="st1" points="551.3,636.5 483.7,456.3 519.4,456.3 461.8,302.8 486,302.8 407.2,92.6 317.2,302.8 346.7,302.8 
+	281,456.3 316.4,456.3 239.3,636.5 373.6,636.5 373.6,753.2 429,753.2 429,636.5 "/>
+<polygon class="st2" points="2272.2,922.1 2088.3,623.2 2185.4,623.2 2028.6,368.4 2094.7,368.4 1880,19.6 1635.2,368.4 
+	1715.2,368.4 1536.4,623.2 1632.8,623.2 1423,922.1 1823,922.1 1823,1029 1957,1029 1957,922.1 "/>
+<polygon class="st1" points="805.2,757.4 762,687.2 784.8,687.2 748,627.3 763.5,627.3 713.1,545.3 655.6,627.3 674.4,627.3 
+	632.4,687.2 655,687.2 605.7,757.4 691.6,757.4 691.6,802.9 727,802.9 727,757.4 "/>
+<polygon class="st0" points="675.7,779.8 608.1,670 643.8,670 586.2,576.4 610.4,576.4 531.6,448.3 441.7,576.4 471.1,576.4 
+	405.4,670 440.8,670 363.7,779.8 498,779.8 498,850.9 553.4,850.9 553.4,779.8 "/>
+<path class="st3" d="M374.8,860.9c0,0,372-273,693.1-78l72,306.2H392.8C392.8,1089,370.3,856.4,374.8,860.9z"/>
+<polygon class="st4" points="533.7,873.1 408.5,669.7 474.6,669.7 367.9,496.3 412.9,496.3 266.8,258.9 100.1,496.3 154.6,496.3 
+	32.9,669.7 98.6,669.7 -44.2,873.1 204.5,873.1 204.5,1004.9 307.2,1004.9 307.2,873.1 "/>
+<path class="st5" d="M2578.3,431.8c0,0,8-498.6,72.4-498.6c0,0,67.7,0,88.5,564.9l18.8,293.5h-180.4L2578.3,431.8z"/>
+<path class="st6" d="M-1017.1,1843.2c0,0,66.4-859,516.2-859c0,0,390.2,68.7,536.7,863.9L-1017.1,1843.2z"/>
+<path class="st5" d="M2771.1,402.9c0,0,8-498.6,72.4-498.6c0,0,67.7,0,88.5,564.9l18.8,293.5h-180.4L2771.1,402.9z"/>
+<path class="st7" d="M797.8,1077.7c0,0,77.5-397.5,601.9-397.5c0,0,454.9,31.8,625.8,399.8L797.8,1077.7z"/>
+<g>
+	<circle class="st8" cx="1446.4" cy="538.4" r="70"/>
+	<polygon class="st8" points="1376.4,537.1 1341.4,744.1 1570.4,744.1 1514.2,531 	"/>
+	<polygon class="st8" points="1422,474.8 1367.9,438.7 1389.1,516.1 	"/>
+	<polygon class="st8" points="1473.4,473.7 1527.5,437.7 1506.3,515.1 	"/>
+	<path class="st8" d="M1385.9,503.4c0,0-37.1,37.1-39.2,58.3l13.8-8.5l-13.8,35c0,0,46.7-62.6,85.9-41.4L1385.9,503.4z"/>
+	<path class="st8" d="M1507.3,505c0,0,37.1,37.1,39.2,58.3l-13.8-8.5l13.8,35c0,0-46.7-62.6-85.9-41.4L1507.3,505z"/>
+	<ellipse class="st8" cx="1456" cy="753.4" rx="115.6" ry="74"/>
+	<path class="st8" d="M1688.7,606.1c0,0-15.9-24.2-63.5,9.2c0,0-48.5,29.3-39.3,93.6c0,0,46,114.5-56.8,132.9
+		c0,0-54.1,5.2-45.6-40.4h-35c0,0-4.1,64.7,82.3,64.7c0,0,102.8-6.7,85.2-126.2c0,0-47.6-99.5,55.2-122.9
+		C1671.1,616.9,1691.2,616.1,1688.7,606.1z"/>
+</g>
+<path class="st9" d="M-160.1,1080c0,0,236.2-223.4,640.7-223.4S1028,1080,1028,1080S-162.4,1078.9-160.1,1080z"/>
+<g class="st10">
+	<polygon class="st11" points="-903.3,321.2 -1094.5,593.6 -735.6,593.6 	"/>
+	<polygon class="st11" points="-901.6,407.8 -1171.6,792.6 -664.8,792.6 	"/>
+	<polygon class="st11" points="-906.8,522.6 -1260.1,1026 -597,1026 	"/>
+</g>
+<polygon class="st11" points="-355.4,98.5 -472.5,-91.8 -410.7,-91.8 -510.5,-254 -468.5,-254 -605.1,-476.1 -761,-254 -710.1,-254 
+	-823.9,-91.8 -762.5,-91.8 -896.1,98.5 -663.3,98.5 -663.3,221.8 -567.3,221.8 -567.3,98.5 "/>
+<polygon class="st12" points="366.5,960.7 192.5,678 284.3,678 136,437.1 198.5,437.1 -4.5,107.1 -236.1,437.1 -160.4,437.1 
+	-329.5,678 -238.3,678 -436.7,960.7 -91,960.7 -91,1143.9 51.7,1143.9 51.7,960.7 "/>
+<polygon class="st13" points="2640.4,878.4 2597.2,808.2 2620,808.2 2583.2,748.3 2598.7,748.3 2548.2,666.3 2490.7,748.3 
+	2509.5,748.3 2467.5,808.2 2490.2,808.2 2440.9,878.4 2526.8,878.4 2526.8,923.9 2562.2,923.9 2562.2,878.4 "/>
+<path class="st7" d="M1111.2,758c0,0-4.2-46.4-43.6-61.9c0,0,35.2,8.4,42.2,26.7l-12.7-61.9l19.7,59.1l11.3-74.6l-2.8,83
+	c0,0,16.9-35.2,47.9-32.4c0,0-49.3,12.7-42.2,63.3L1111.2,758z"/>
+<line class="st14" x1="1199.8" y1="827.8" x2="1172.8" y2="848.8"/>
+<line class="st14" x1="1228.8" y1="827.8" x2="1201.8" y2="848.8"/>
+<line class="st14" x1="1260.3" y1="827.8" x2="1233.3" y2="848.8"/>
+<line class="st14" x1="566.8" y1="937.8" x2="539.8" y2="958.8"/>
+<line class="st14" x1="601.8" y1="932.8" x2="574.8" y2="953.8"/>
+<line class="st14" x1="634.8" y1="928.8" x2="607.8" y2="949.8"/>
+</svg>
