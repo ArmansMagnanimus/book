@@ -38,7 +38,7 @@
     font-weight: normal;
     font-style: normal;
 }
-html, body, h1 {
+html, body {
 	width: 100%;
 	height: 100%;
 	padding: 0;
@@ -97,8 +97,8 @@ content {
 	right: 0;
 	left: 0;
 	width: 100%;
-	height: 32%;
-	margin: 0 auto;
+	height: 17%;
+	margin: auto;
 	font-family: 'Anagram', Helvetica, sans-serif;
 	color: #ffffff;
 	font-size: 64px;
@@ -172,10 +172,7 @@ p {
 }
 .contenedor-slider .area-click {
 	width: 32px;
-	height: 32px;
-	padding: 0;
-	margin: 0;
-	line-height: 0;
+	height: auto;
 	overflow: auto;
 }
 .preview {
@@ -238,8 +235,7 @@ p {
 	position: absolute;
 	width: 32px;
 	height: 48px;
-	top: 230%;
-	padding: 0;
+	top: 220%;
 	margin: auto;
 	font-size: 21px;
 	color: #ffffff;
