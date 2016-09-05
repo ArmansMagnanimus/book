@@ -299,6 +299,21 @@ footer span {
 	.preview div p {
 		font-size: 0.8rem;
 	}
+	.contenedor-slider {
+	    margin-top: -30%;
+	    padding-top: 30%;
+	}
+	.flechita {
+	    top: 139%;
+	}
+	.preview {
+		background-position: 0 103%;
+	    padding: 126.7% 0 0;
+	}
+	.preview div {
+	    height: 56%;
+	    top: 44%;
+	}
 }
 @media screen and (max-width: 400px) {
 	.logo {
