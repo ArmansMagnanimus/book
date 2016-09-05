@@ -318,6 +318,9 @@ footer span {
 	.preview div p {
 		padding-top: 7%;
 	}
+	.flechita {
+		top: 300%;
+	}
 	.fa-chevron-right {
 		text-align: center;
 	}
