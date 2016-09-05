@@ -172,9 +172,10 @@ p {
 }
 .contenedor-slider .area-click {
 	width: 32px;
-	height: auto;
+	height: 32px;
 	padding: 0;
 	margin: 0;
+	line-height: 0;
 	overflow: auto;
 }
 .preview {
