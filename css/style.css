@@ -226,9 +226,9 @@ p {
 	color: #ffffff;
 	text-align: center;
 }
-#conver:hover div,
-#gatopardo:hover div,
-#videocine:hover div {
+#conver:hover div, #conver:focus div
+#gatopardo:hover div, #gatopardo:focus div
+#videocine:hover div, #videocine:focus div  {
 	display: inherit;
 }
 .flechita {
