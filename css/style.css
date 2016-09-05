@@ -303,7 +303,7 @@ footer span {
 }
 @media screen and (max-width: 400px) {
 	.logo {
-		top: 65%;
+		top: 64%;
 	}
 	#yo p {
 		width: 80%;
