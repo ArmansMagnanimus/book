@@ -268,6 +268,7 @@ p {
 	width: 58px;
 	height: 46px;
 	background-color: #e83944;
+	padding: 0;
 	border-radius: 5px;
 	margin: 0 auto 5%;
 	font-family: 'Journal', Helvetica, sans-serif;
@@ -275,8 +276,6 @@ p {
 	text-decoration: none;
 	color: #ffffff;
 	text-align: center;
-}
-.boton-correo i {
 }
 .boton-correo:hover {
 	color: #d3d3d3;
