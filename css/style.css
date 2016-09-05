@@ -278,7 +278,7 @@ p {
 }
 .boton-correo i {
 	display: inline-block;
-	vertical-align: bottom;
+	vertical-align: top;
 }
 .boton-correo:hover {
 	color: #d3d3d3;
@@ -305,7 +305,7 @@ footer span {
 }
 @media screen and (max-width: 400px) {
 	.logo {
-		top: 66%;
+		top: 65%;
 	}
 	#yo p {
 		width: 80%;
