@@ -277,8 +277,6 @@ p {
 	text-align: center;
 }
 .boton-correo i {
-	display: inline-block;
-	vertical-align: top;
 }
 .boton-correo:hover {
 	color: #d3d3d3;
