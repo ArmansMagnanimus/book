@@ -187,9 +187,8 @@ p {
 	padding: 86.7% 0 0 0;
 	margin: 0;
 }
-#conver .preview,
-#conver:target .preview {
-	background-image: url(../img/conver-preview.png);	
+.preview {
+	background-image: url(../img/videocine-preview.jpg);	
 }
 #conver:target,
 #conver:target .flechita,
@@ -198,6 +197,9 @@ p {
 #videocine:target,
 #videocine:target .flechita {
 	z-index: 3;	
+}
+#conver:target .preview {
+	background-image: url(../img/conver-preview.png);	
 }
 #gatopardo:target .preview {
 	background-image: url(../img/gatopardo-preview.png);	
@@ -218,7 +220,9 @@ p {
 	
 }
 .preview div p {
-	padding-top: 25%;
+	padding: 25% 0 0 0;
+	margin: 0 auto;
+	font-size: 1.25rem;
 	color: #ffffff;
 	text-align: center;
 }
@@ -230,12 +234,13 @@ p {
 .flechita {
 	position: absolute;
 	width: 32px;
-	height: 32px;
-	top: 17.5em;
+	height: 48px;
+	top: 265%;
 	bottom: 0;
 	margin: auto;
 	font-size: 21px;
 	color: #ffffff;
+	line-height: 2.3;
 	z-index: 2;
 }
 .fa-chevron-left {
@@ -289,5 +294,26 @@ footer span {
 @media screen and (max-width: 660px) {
 	header ul {
 		width: 84%;
+	}
+	.preview div p {
+		font-size: 0.8rem;
+	}
+	#trabajo h2
+}
+@media screen and (max-width: 400px) {
+	.logo {
+		top: 68%;
+	}
+	#yo p {
+		width: 80%;
+	}
+	#trabajo h2 {
+		height: 40%;
+	}
+	.preview div p {
+		padding-top: 7%;
+	}
+	.fa-chevron-right {
+		text-align: center;
 	}
 }
