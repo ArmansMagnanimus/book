@@ -234,10 +234,10 @@ p {
 .flechita {
 	position: absolute;
 	width: 32px;
-	height: 48px;
-	top: 240%;
+	height: 55px;
+	top: 225%;
 	margin: auto;
-	font-size: 21px;
+	font-size: 28px;
 	color: #ffffff;
 	line-height: 2.3;
 	z-index: 2;
