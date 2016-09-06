@@ -83,6 +83,7 @@ content {
 	position: relative;
 	width: 100%;
 	height: 0;
+	background-color: #ec8101;
 	background: rgba(236,129,1,1);
 	background-image: url(../img/gatito.svg);
 	background-position: 0 2px;
@@ -90,6 +91,11 @@ content {
 	background-repeat: no-repeat;
 	padding-top: 56.3%;
 	margin: 6.8% 0 0;
+	transition: background-color 2s;
+}
+.banner-main:hover {
+	background-color: #003366;
+
 }
 .logo {
 	position: absolute;
@@ -107,7 +113,7 @@ content {
 }
 .moon {
 	position: absolute;
-	top: 30%;
+	top: 29%;
 	right: 0;
 	left: 0;
 	width: 10%;
@@ -115,6 +121,11 @@ content {
 	background-color: #fefcd7;
 	border-radius: 50%;
 	margin: auto;
+	transition: top 2s, left 2s;
+}
+.banner-main:hover .moon {
+	top: 48%;
+	left: -5%;
 }
 #yo {
 	padding-top: 5%;
