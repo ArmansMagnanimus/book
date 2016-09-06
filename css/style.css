@@ -93,7 +93,7 @@ content {
 	margin: 6.8% 0 0;
 	transition: background-color 2s;
 }
-.banner-main:hover, .banner-main:active {
+.banner-main:hover, .banner-main:focus {
 	background-color: #003366;
 
 }
@@ -123,7 +123,7 @@ content {
 	margin: auto;
 	transition: top 2s, left 2s;
 }
-.banner-main:hover .moon, .banner-main:active .moon {
+.banner-main:hover .moon, .banner-main:focus .moon {
 	top: 48%;
 	left: -5%;
 }
