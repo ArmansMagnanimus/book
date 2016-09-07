@@ -274,6 +274,17 @@ p {
 	padding-left: 50px;
 	margin: 0 auto;
 }
+.icon-linkedin {
+	display: block;
+	width: 27px;
+	height: 32px;
+	margin: 0 auto 15px;
+	color: #e83944;
+	text-decoration: none;
+}
+.icon-linkedin i {
+	font-size: 32px;
+}
 .boton-correo {
 	display: block;
 	width: 58px;
