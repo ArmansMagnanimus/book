@@ -285,6 +285,10 @@ p {
 .icon-linkedin i {
 	font-size: 32px;
 }
+.icon-linkedin:hover {
+	background-color: #e83944;
+	color: #ffffff;
+}
 .boton-correo {
 	display: block;
 	width: 58px;
