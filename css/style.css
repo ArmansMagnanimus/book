@@ -281,13 +281,20 @@ p {
 	margin: 0 auto 15px;
 	color: #e83944;
 	text-decoration: none;
+	text-align: center;
 }
 .icon-linkedin i {
 	font-size: 32px;
 }
 .icon-linkedin:hover {
+	width: 34px;
+	height: 32px;
 	background-color: #e83944;
+	border-radius: 7px;
 	color: #ffffff;
+}
+.icon-linkedin:hover i {
+	font-size: 31px;
 }
 .boton-correo {
 	display: block;
