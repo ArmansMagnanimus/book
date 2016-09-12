@@ -1,0 +1,27 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "\"Armans' Book\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmansMagnanimus/book.git"
+  },
+  "keywords": [
+    "\"book",
+    "front-end\""
+  ],
+  "author": "\"Armans\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmansMagnanimus/book/issues"
+  },
+  "homepage": "https://github.com/ArmansMagnanimus/book#readme",
+  "devDependencies": {
+    "browser-sync": "^2.15.0",
+    "gulp": "^3.9.1"
+  }
+}
